@@ -2,7 +2,10 @@
 
 ## Features
 
-This data pack adds new structures to existing villages, as well as brand new villages! This data pack will also add other structures in the future, but those won't be developed for a while.
+-New structures for existing villages
+-New villages entirley
+-Redesigns of other default structures, such as Desert Pyramids
+-Brand new structures
 
 ## This Data Pack Currently Adds:
 
