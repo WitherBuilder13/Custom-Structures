@@ -6,7 +6,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/town_centers/plains_fountain_01",
-        "processors": "withercraft:stone_block_texture_1",
+        "processors": "withercraft:plains_fountain",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -15,7 +15,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/town_centers/plains_meeting_point_1",
-        "processors": "withercraft:stone_block_texture_1",
+        "processors": "withercraft:plains_well",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -24,7 +24,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/town_centers/plains_meeting_point_2",
-        "processors": "withercraft:plains_market_stall_1",
+        "processors": "withercraft:plains_market_stall",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -33,7 +33,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/town_centers/plains_meeting_point_3",
-        "processors": "withercraft:oak_tree_1",
+        "processors": "withercraft:oak_tree",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
