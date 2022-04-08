@@ -2,7 +2,7 @@
 
 ## Features
 
--New structures for existing villages\n
+-New structures for existing villages </br>
 -New villages entirley\n
 -Redesigns of other default structures, such as Desert Pyramids\n
 -Brand new structures\n
