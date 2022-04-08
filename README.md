@@ -2,10 +2,10 @@
 
 ## Features
 
--New structures for existing villages
--New villages entirley
--Redesigns of other default structures, such as Desert Pyramids
--Brand new structures
+-New structures for existing villages\n
+-New villages entirley\n
+-Redesigns of other default structures, such as Desert Pyramids\n
+-Brand new structures\n
 
 ## This Data Pack Currently Adds:
 
