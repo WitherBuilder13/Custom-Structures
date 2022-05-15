@@ -1,4 +1,4 @@
-# Custom Villages Data Pack
+# Custom Structures Data Pack
 
 ## Features
 
